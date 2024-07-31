@@ -1,4 +1,3 @@
-# C2
-Simple Command and Control Backdoor 
+# Win-Backdoor
 
 Currently under development : )
